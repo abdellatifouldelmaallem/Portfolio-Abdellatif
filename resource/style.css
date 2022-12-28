@@ -1,0 +1,14 @@
+.bg{
+    background-color: rgb(238, 42, 81);
+}
+
+.nav-link:hover{
+ text-decoration: none;
+ border: 0px solid white;
+ background-color: white;
+ border-radius: 5px;
+}
+
+
+
+
